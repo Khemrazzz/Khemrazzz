@@ -13,7 +13,8 @@
 
 <!--🖼️🖼️INTERSTLOGOS-->
 <p align="center">
-<img src="/Users/sarveshkallee/Downloads/java-14.svg" width="60">
+<img src="https://worldvectorlogo.com/logo/java-14" width="60">
+<img src="" width="60">
 <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="60">
 <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="60">
 <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="60">
