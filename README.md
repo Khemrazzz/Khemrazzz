@@ -13,5 +13,8 @@
 
 <!--🖼️🖼️INTERSTLOGOS-->
 <p align="center">
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fworldvectorlogo.com%2Flogo%2Fjava-14&psig=AOvVaw2Yu30ieD7BsjGQUQi7Wq1Z&ust=1710416939573000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLC40vWV8YQDFQAAAAAdAAAAABAD" width="60">
+<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="60">
+<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="60">
 <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="60">
 </h4>
