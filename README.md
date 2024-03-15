@@ -4,7 +4,7 @@
 <img src="https://d.furaffinity.net/art/lxlhunter/1492019990/1492019990.lxlhunter_coding.gif" width="175">
 
 <p align="center">
-  <a href="https://github.com/trinib?tab=stars&sort=stargazers">
+  <a href="https://github.com/Khemrazzz?tab=stars&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Khemrazzz"/></a>
 <a href="https://github.com/Khemrazzz?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/Khemrazzz?color=23960c&labelColor=188207&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
