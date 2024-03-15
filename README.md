@@ -43,18 +43,8 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
 
-<p>
-<img src="https://github-readme-stats-hqxszzea3-trinib.vercel.app/api?username=Khemrazzz&show_icons=true&theme=merko&border_color=599200">
-
-<img src="https://github-readme-streak-stats-fyclg7hvg-trinib.vercel.app/?user=Khemrazzz&theme=merko&border=599200">
-  
-<p align="center">
-<a href="https://github.com/Khemrazzz/AdGuard-WireGuard-Unbound-DNScrypt"><img src="https://github-readme-stats-trinib.vercel.app/api/top-langs/?username=Khemrazzz&theme=merko&layout=compact&border_color=599200&langs_count=6"></a>
-
 <p align="center">
 <img src="https://64.media.tumblr.com/2653add4a3787d6979fecbb9d296f696/337a4fe4a220b9b4-68/s540x810/3518b071b05f51dffa24ba705b23a7f2a5764c26.gif" width="175">
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Khemrazzz&theme=react-dark&hide_border=true&color=00d668&line=00d668&point=8b007e" width="100%">
 
 
