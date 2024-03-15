@@ -50,7 +50,6 @@
   
 <p align="center">
 <a href="https://github.com/Khemrazzz/AdGuard-WireGuard-Unbound-DNScrypt"><img src="https://github-readme-stats-trinib.vercel.app/api/top-langs/?username=Khemrazzz&theme=merko&layout=compact&border_color=599200&langs_count=6"></a>
-</p>
 
 <p align="center">
 <img src="https://64.media.tumblr.com/2653add4a3787d6979fecbb9d296f696/337a4fe4a220b9b4-68/s540x810/3518b071b05f51dffa24ba705b23a7f2a5764c26.gif" width="175">
