@@ -1,4 +1,4 @@
-<h2 align="center">Khemrazzz</h2>
+<h2 align="center">Khemrazzz<br>BSc(Hons) Software Engineering at University of Technology,Mauritius</h2>
 
 <p align="center">
 <img src="https://d.furaffinity.net/art/lxlhunter/1492019990/1492019990.lxlhunter_coding.gif" width="175">
