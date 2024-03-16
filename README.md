@@ -49,11 +49,17 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Khemrazzz&show_icons=true&theme=gotham" alt="Khemrazz">
 </p>
 
-..............[![trophy](https://github-profile-trophy.vercel.app/?username=Khemrazzz)](https://github.com/ryo-ma/github-profile-trophy).............
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Khemrazzz)](https://github.com/ryo-ma/github-profile-trophy)
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Khemrazzz&theme=react-dark&hide_border=true&color=00d668&line=00d668&point=8b007e" width="100%">
 </p>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
 
 
 
