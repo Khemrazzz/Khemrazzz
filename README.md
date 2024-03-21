@@ -36,17 +36,18 @@
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
-
+<p align="center">
+<a href="https://github.com/Khemrazzz/my-repo-readme">
+<img src="https://github-readme-stats.vercel.app/api?username=Khemrazzz&theme=react&show_icons=true" />
+</a>
+</p>
 
 <a href="https://github.com/Khemrazzz/github-readme-streak-stats">
 <img height=200 src="https://github-readme-streak-stats-iota-beige.vercel.app?user=Khemrazzz&theme=react&borderradius=50" />
 </a>
+
 <a href="https://github.com/Khemrazzz/my-repo-readme">
-<img height=200 src="https://github-readme-stats.vercel.app/api?username=Khemrazzz&theme=react&show_icons=true" />
-</a>
-<br>
-<a href="https://github.com/Khemrazzz/my-repo-readme">
-<img width=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khemrazzz&layout=compact&theme=react" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khemrazzz&layout=compact&theme=react" />
 </a>
 
 
