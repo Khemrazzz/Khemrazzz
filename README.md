@@ -42,6 +42,7 @@
 </a>
 </p>
 
+<p align="center">
 <a href="https://github.com/Khemrazzz/github-readme-streak-stats">
 <img width=450 src="https://github-readme-streak-stats-iota-beige.vercel.app?user=Khemrazzz&theme=react&borderradius=50" />
 </a>
@@ -49,7 +50,7 @@
 <a href="https://github.com/Khemrazzz/my-repo-readme">
 <img height=177 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khemrazzz&layout=compact&theme=react" />
 </a>
-
+</p>
 
 
 
