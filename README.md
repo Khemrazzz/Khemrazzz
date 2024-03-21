@@ -47,7 +47,7 @@
 </a>
 
 <a href="https://github.com/Khemrazzz/my-repo-readme">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khemrazzz&layout=compact&theme=react" />
+<img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khemrazzz&layout=compact&theme=react" />
 </a>
 
 
