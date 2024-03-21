@@ -35,8 +35,8 @@
 <img src="https://images.credly.com/size/220x220/images/441578ec-c0f3-46cc-95fc-86b27e90cf4f/image.png" width="60">
 </p>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
 <p align="center">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
 <a href="https://github.com/Khemrazzz/my-repo-readme">
 <img src="https://github-readme-stats.vercel.app/api?username=Khemrazzz&theme=react&show_icons=true" />
 </a>
