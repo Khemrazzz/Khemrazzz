@@ -41,6 +41,8 @@
   
 [![GitHub Streak](https://github-readme-streak-stats-iota-beige.vercel.app?user=Khemrazzz&theme=windows-dark)](https://git.io/streak-stats)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Khemrazzz&theme=holi&show_icons=true)
+
 
 
 
