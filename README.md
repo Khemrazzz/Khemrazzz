@@ -19,7 +19,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="60">
 <img src="https://cdn4.iconfinder.com/data/icons/logos-3/568/php-logo-512.png" width="70">
 <img src="https://cdn4.iconfinder.com/data/icons/logos-3/181/MySQL-1024.png" width="70">
-<img src="https://www.pngwing.com/en/free-png-arbzr/download" width="70">
+
 </p>
 
 <h4 align= "center"><b><i>Cisco Badges</i></b></h4>
