@@ -39,7 +39,6 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
 
 ![Khemrazzz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Khemrazzz&theme=react&show_icons=true)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khemrazzz&theme=react&layout=compact)
 
 [![Khemrazzz's trophies](https://github-profile-trophy.vercel.app/?username=Khemrazzz&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
