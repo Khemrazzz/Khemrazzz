@@ -39,7 +39,7 @@
 <p align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
 <a href="https://github.com/Khemrazzz/my-repo-readme">
-<img src="[https://github-readme-stats.vercel.app/api?username=Khemrazzz&theme=react&show_icons=true][https://github-readme-stats.vercel.app/api?username=Khemrazzz&theme=react&show_icons=true]" />
+<img src="[https://github-readme-stats.vercel.app/api?username=Khemrazzz&theme=react&show_icons=true]" />
 </a>
 </p>
 <p align="center">
