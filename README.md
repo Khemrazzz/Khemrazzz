@@ -36,6 +36,7 @@
 <img src="https://images.credly.com/size/220x220/images/441578ec-c0f3-46cc-95fc-86b27e90cf4f/image.png" width="60">
 </p>
 
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
 [![Khemrazzz's trophies](https://github-profile-trophy.vercel.app/?username=Khemrazzz&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
